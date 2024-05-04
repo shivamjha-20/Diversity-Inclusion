@@ -1,1 +1,5 @@
 # Diversity-Inclusion
+
+The telecom client, in partnership with PwC Switzerland, aims to enhance executive gender balance through diversity and inclusion initiatives. 
+
+Key Performance Indicators (KPIs) have been developed to measure progress in hiring, promotion, performance, and turnover, with the overarching goal of fostering a valued and inclusive environment for all teams. By tracking the percentage of hires, we ensure recruitment practices promote a balanced workforce from the outset. Measuring the percentage of promotions among men and women allows us to identify and celebrate talent, ensuring opportunities are equitable and merit-based. Assessing average performance ratings by gender helps pinpoint potential biases and ensures a fair evaluation system. Monitoring turnover percentages among men and women helps identify areas of concern and ensures the retention of diverse talent. The ultimate goal is a practical approach to addressing gender balance challenges, not only by setting strategic objectives but also by continuously measuring, analyzing, and improving diversity and inclusion initiatives.
